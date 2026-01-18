@@ -1,4 +1,4 @@
-# Grindset Server
+# Express + TypeScript Backend
 
 Express.js + TypeScript backend server.
 
